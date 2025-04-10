@@ -4,6 +4,8 @@ Template para os projetos do curso de graduação em Gestão da Produção Indus
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
+teste
+
 # Índice
 * [Projeto](#projeto-template)
 * [Equipe](#equipe)
