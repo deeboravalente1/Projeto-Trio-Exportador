@@ -2,6 +2,7 @@
 
 Trabalho desenvolvido como parte da disciplina de Tecnologia da Informação Aplicada à Gestão de Operações e Processos, referente ao Projeto Integrador (API) do 6º semestre do curso de Gestão da Produção Industrial da FATEC Prof. Jessen Vidal – São José dos Campos, no ano de 2025, sob orientação do Professor Jean Carlos Lourenço Costa.
 
+
 # Índice
 * [Projeto (API)](#Projeto-(API))
 * [Equipe](#Equipe)
@@ -9,6 +10,7 @@ Trabalho desenvolvido como parte da disciplina de Tecnologia da Informação Apl
 * [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
 * [Sprints](#Sprints)
 * [Registro das Sprints](#Registro-das-Sprints)
+
 
 # Projeto (API) 
 Descrição da demanda realizada pelo parceiro acadêmico.
@@ -23,6 +25,7 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 | Scrum Master  | Lisandra Maria dos Santos |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lisandra-santos-16a059198?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/lisandrasantos)     |
 | Scrum Team  | Marcos Lucas Pereira |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/marcos-lucas-9519b1280) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/marcoslucas693)     |
 
+
 # Objetivo do Projeto
 Este projeto tem como foco o mapeamento das exportações brasileiras entre 2022 e 2025, com base na análise de dados logísticos, econômicos e geográficos. Os principais pontos abordados incluem:
 
@@ -31,7 +34,8 @@ Este projeto tem como foco o mapeamento das exportações brasileiras entre 2022
 - Identificação dos principais países de destino das exportações brasileiras;
 - Análise do fluxo mensal de cargas, com destaque para padrões sazonais.
 
-## Tecnologias Utilizadas
+
+# Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
  > Liste aqui todas as tecnologias utilizadas para concluir a entrega
@@ -39,9 +43,8 @@ Este projeto tem como foco o mapeamento das exportações brasileiras entre 2022
  ### Tecnologias da Informação
  > Liste aqui todas as tecnologias utilizadas para concluir a entrega
 
-# Backlog do produto
 
-## SPRINTS:
+# SPRINTS:
 
 ## Sprint 1
 - [x] Criar projeto e quadros de tarefas no Jira;
@@ -66,6 +69,7 @@ Este projeto tem como foco o mapeamento das exportações brasileiras entre 2022
 - [ ] Revisar o material para apresentação (Github, Jira, Power BI);
 - [ ] Publicar versão final do repositório com todos os arquivos e relatórios;
 - [ ] Apresentar resultados.
+
 
 # Registro das Sprints
 
