@@ -3,12 +3,12 @@
 Trabalho desenvolvido como parte da disciplina de Tecnologia da Informação Aplicada à Gestão de Operações e Processos, referente ao Projeto Integrador (API) do 6º semestre do curso de Gestão da Produção Industrial da FATEC Prof. Jessen Vidal – São José dos Campos, no ano de 2025, sob orientação do Professor Jean Carlos Lourenço Costa.
 
 # Índice
-* [Projeto](#projeto-template)
-* [Equipe](#equipe)
-* [Objetivo do Projeto](#objetivo-do-projeto)
+* [Projeto (API)](#Projeto-(API))
+* [Equipe](#Equipe)
+* [Objetivo do Projeto](#Objetivo-do-Projeto)
+* [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
 * [Sprints](#Sprints)
-* [Burndown](#Burndown)
-* [Backlog do produto](#Backlog-do-produto)
+* [Registro das Sprints](#Registro-das-Sprints)
 
 # Projeto (API) 
 Descrição da demanda realizada pelo parceiro acadêmico.
@@ -41,6 +41,8 @@ Este projeto tem como foco o mapeamento das exportações brasileiras entre 2022
 
 # Backlog do produto
 
+## SPRINTS:
+
 ## Sprint 1
 - [x] Criar projeto e quadros de tarefas no Jira;
 - [x] Definir backlog inicial com as funcionalidades e etapas do projeto;
@@ -69,7 +71,7 @@ Este projeto tem como foco o mapeamento das exportações brasileiras entre 2022
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|01 | 30/04/2025 | a fazer| [MVP](https://) | 
-|02|  21/05/2025| a fazer|[MVP](https://) | 
-|03| 11/06/2025 | a fazer|[MVP](https://) | 
+|01 | 30/04/2025 | Concluído | [MVP](https://) | 
+|02|  21/05/2025| Em andamento |[MVP](https://) | 
+|03| 11/06/2025 | a fazer |[MVP](https://) | 
 |Feira de Soluções|dd/mm/2025 |a fazer |[MVP](https://) | 
