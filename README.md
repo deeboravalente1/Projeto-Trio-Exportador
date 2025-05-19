@@ -12,7 +12,7 @@ Trabalho desenvolvido como parte da disciplina de Tecnologia da Informação Apl
 * [Registro das Sprints](#Registro-das-Sprints)
 
 
-# Projeto (API) 
+# Projeto (API)
 Descrição da demanda realizada pelo parceiro acadêmico.
 
 ![Mídia](https://github.com/user-attachments/assets/eeb581b7-c200-4f87-9812-71803617b29e)
