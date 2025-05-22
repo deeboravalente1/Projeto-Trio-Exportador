@@ -44,10 +44,7 @@ Este projeto tem como foco o mapeamento das exportações brasileiras entre 2022
 - Github
 
   
- ### Tecnologias da Informação
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
-
-
+ ### Backlog do Produto
 # SPRINTS:
 
 ## Sprint 1
