@@ -38,7 +38,11 @@ Este projeto tem como foco o mapeamento das exportações brasileiras entre 2022
 # Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+- Jira;
+- Power BI;
+- SQL;
+- Github
+
   
  ### Tecnologias da Informação
  > Liste aqui todas as tecnologias utilizadas para concluir a entrega
@@ -55,10 +59,11 @@ Este projeto tem como foco o mapeamento das exportações brasileiras entre 2022
 - [x] Estruturar plano de trabalho e divisão de responsabilidades na equipe.
 
 ## Sprint 2
-- [ ] Coletar dados sobre URFs, cargas, estados e países de destino;
-- [ ] Tratar e padronizar os dados (limpeza, correções, formatações);
-- [ ] Realizar análise exploratória inicial para identificar padrões e sazonalidade;
-- [ ] Documentar o processo no repositório do GitHub.
+- [x] Coletar dados sobre URFs, cargas, estados e países de destino;
+- [x] Criar o relacionamento entre as tabelas em SQL
+- [x] Tratar e padronizar os dados (limpeza, correções, formatações);
+- [x] Realizar análise exploratória inicial para identificar padrões e sazonalidade através do Power BI;
+- [x] Documentar o processo no repositório do GitHub.
       
 ## Sprint 3
 - [ ] Desenvolver o dashboard no Power BI com gráficos e filtros interativos;
@@ -78,4 +83,4 @@ Sprint | Previsão | Status| Histórico|
 |01 | 30/04/2025 | Concluído | [MVP](https://) | 
 |02|  21/05/2025| Em andamento |[MVP](https://) | 
 |03| 11/06/2025 | a fazer |[MVP](https://) | 
-|Feira de Soluções|dd/mm/2025 |a fazer |[MVP](https://) | 
+
