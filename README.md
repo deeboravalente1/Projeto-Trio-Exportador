@@ -59,6 +59,7 @@ Este projeto tem como foco o mapeamento das exportações brasileiras entre 2022
 - [x] Estruturar plano de trabalho e divisão de responsabilidades na equipe.
 
 ## Sprint 2
+- [x] Realizar o gerenciamento de tarefas no Jira;
 - [x] Coletar dados sobre URFs, cargas, estados e países de destino;
 - [x] Criar o relacionamento entre as tabelas em SQL
 - [x] Tratar e padronizar os dados (limpeza, correções, formatações);
