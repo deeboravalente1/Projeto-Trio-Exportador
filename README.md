@@ -52,7 +52,7 @@ Este projeto tem como foco o mapeamento das exportações brasileiras entre 2022
 - [x] Definir backlog inicial com as funcionalidades e etapas do projeto;
 - [x] Criar repositório no GitHub para controle de versão e colaboração;
 - [x] Levantar e organizar as fontes de dados públicas sobre exportações;
-- [ ] Definir escopo de dados;
+- [x] Definir escopo de dados;
 - [x] Estruturar plano de trabalho e divisão de responsabilidades na equipe.
 
 ## Sprint 2
@@ -64,14 +64,14 @@ Este projeto tem como foco o mapeamento das exportações brasileiras entre 2022
 - [x] Documentar o processo no repositório do GitHub.
       
 ## Sprint 3
-- [ ] Desenvolver o dashboard no Power BI com gráficos e filtros interativos;
-- [ ] Inserir visualizações para:
+- [x] Desenvolver o dashboard no Power BI com gráficos e filtros interativos;
+- [x] Inserir visualizações para:
       - URFs ativas por estado;
       - Principais produtos exportados;
       - Países de destino por tipo de carga;
-- [ ] Revisar o material para apresentação (Github, Jira, Power BI);
-- [ ] Publicar versão final do repositório com todos os arquivos e relatórios;
-- [ ] Apresentar resultados.
+- [x] Revisar o material para apresentação (Github, Jira, Power BI);
+- [x] Publicar versão final do repositório com todos os arquivos e relatórios;
+- [] Apresentar resultados.
 
 
 # Registro das Sprints
@@ -79,6 +79,6 @@ Este projeto tem como foco o mapeamento das exportações brasileiras entre 2022
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |01 | 30/04/2025 | Concluído | [MVP](https://) | 
-|02|  21/05/2025| Em andamento |[MVP](https://) | 
-|03| 11/06/2025 | a fazer |[MVP](https://) | 
+|02|  21/05/2025| Concluído |[MVP](https://) | 
+|03| 11/06/2025 | Executando |[MVP](https://) | 
 
