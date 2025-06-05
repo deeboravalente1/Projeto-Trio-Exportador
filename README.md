@@ -71,7 +71,7 @@ Este projeto tem como foco o mapeamento das exportações brasileiras entre 2022
       - Países de destino por tipo de carga;
 - [x] Revisar o material para apresentação (Github, Jira, Power BI);
 - [x] Publicar versão final do repositório com todos os arquivos e relatórios;
-- [] Apresentar resultados.
+- [x] Apresentar resultados.
 
 
 # Registro das Sprints
